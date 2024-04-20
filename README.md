@@ -1,6 +1,6 @@
 <h1 align="center">Hi there!👋 I'm Adi</h1>
 <h3 align="left">About Me</h3>
-<h3 align="center">Passionate Senior .NET Developer with 3 years of WPF experience. Currently focusing on ASP.NET Core and open-source contributions to stay updated with tech trends.</h3>
+<h3 align="center">Passionate .NET Developer with 3 years of WPF experience. Currently focusing on ASP.NET Core and open-source contributions to stay updated with tech trends.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adisagar-j&label=Profile%20views&color=0e75b6&style=flat" alt="adisagar-j" /> </p>
 
